@@ -41,7 +41,7 @@
                 if (b != 0)
                 {
                     total = a / b;
-                    Console.WriteLine("Деление " + a + " на " + b + " равно " + total);
+                    Console.WriteLine("Деление " + a + " на " + b + " равно " + total + ".");
                 }
                 else
                 {
